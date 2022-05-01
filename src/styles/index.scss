@@ -1,0 +1,22 @@
+
+
+$wyf_mainbg:#181818;
+$wyf_maincolor:#fff;
+html, body, #app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: $wyf_mainbg;
+  color: $wyf_maincolor;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+}
+body, p, h1, h2, h3, h4, h5, ul, li, ol, button, input, form, label, div, h4, span, a, textarea {
+  padding:0;
+  margin:0;
+  list-style:none;
+  box-sizing: border-box;
+}
+// @import './transition.scss';

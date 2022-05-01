@@ -1,0 +1,25 @@
+{
+  "name": "wyf-portfolio",
+  "version": "0.1.0",
+  "description": "wyf作品集",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --open"
+  },
+  "dependencies": {
+    "vue": "^3.0.4"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "sass": "^1.51.0",
+    "sass-loader": "^12.6.0",
+    "vite": "^1.0.0-rc.13",
+    "vue-router": "^4.0.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 5 versions",
+    "not dead"
+  ]
+}
